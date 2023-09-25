@@ -18,7 +18,6 @@ My portfolio website serves as a platform to showcase my skills, projects, and e
 - **React**: JavaScript library for building user interfaces.
 - **HTML/CSS**: Markup and styling for the website.
 - **JavaScript**: Core programming language used for interactivity.
-- **Bootstrap**: CSS framework for layout and design.
 
 ## Getting Started
 
